@@ -1,3 +1,6 @@
 # pemrograman-berorientasi-objek-lanjut
-source code pemrograman berorientasi objek lanjut
+TUGAS KELOMPOK
+WAHYU JUNIANSYAH 5160311002
+IRFAN DWIANTO 5160311008
+RIVKY ZAINUL AMRY 5160311011
 
